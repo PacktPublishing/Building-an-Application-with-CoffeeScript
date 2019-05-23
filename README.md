@@ -1,2 +1,40 @@
-# Building-an-Application-with-CoffeeScript
-Building an Application with CoffeeScript, Published by Packt
+# Rapid Flask [Video]
+This is the code repository for [Rapid Flask [Video]](https://www.packtpub.com/application-development/rapid-flask-video?utm_source=github&utm_medium=repository&utm_campaign=9781783554256), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+## About the Video Course
+CoffeeScript is a programming language that transcompiles to JavaScript. Using CoffeeScript, programs can be written with less code, typically only a third of JavaScript lines, with no effect on runtime performance.
+
+This video course provides invaluable insight into the practical usefulness of CoffeeScript, how it can simplify web development, and allow us to easily build web applications or re-factor existing ones.
+
+From getting acquainted with CoffeeScript all the way to using it in production, this course focuses on the practical aspects of the language. You’ll get to see all it offers, such as the simplified syntax compared to JavaScript, the impressive build tools, and the possibilities to simplify your project structure.
+
+You'll build an application while learning the specifics of the language and the many tricks CoffeeScript has up its sleeve. You will use JavaScript libraries to avoid ‘reinventing the wheel’, while inventing some wheels of our own in order to better understand some advanced concepts . We'll go through a really simple MVC framework that provides the basis of a simple document editing application that can export documents to the desktop (from the Web).
+
+The app we’ll be building is fully extensible so you can easily make it your own. Want a note-taking app? We have you covered. Want to extend the app to something more? By all means, you'll have a skeleton app which you can revamp again and again to build various apps with CoffeeScript.
+
+<H2>What You Will Learn</H2>
+<DIV class=book-info-will-learn-text>
+<UL>
+<LI>Python programming 
+<LI>Application programming 
+<LI>The semantics of general programming 
+<LI>The format of coding applications 
+<LI>All the functions of Python programming 
+<LI>Application programming </LI></UL></DIV>
+
+## Instructions and Navigation
+### Assumed Knowledge
+To fully benefit from the coverage included in this course, you will need:<br/>
+Basic Knowledge of CoffeeScript 
+
+### Technical Requirements
+This course has the following software requirements:<br/>
+CoffeeScript 
+JavaScript
+
+## Related Products
+* [Hands-On Incident Response Analysis [Video]](https://www.packtpub.com/networking-and-servers/hands-incident-response-analysis-video?utm_source=github&utm_medium=repository&utm_campaign=9781838552046)
+
+* [Mastering Metasploit 5.0 [Video]](https://www.packtpub.com/networking-and-servers/mastering-metasploit-50-video?utm_source=github&utm_medium=repository&utm_campaign=9781838551544)
+
+* [The Python Programming Bible: Networking, GUI, Email, XML, CGI [Video]](https://www.packtpub.com/application-development/python-programming-bible-networking-gui-email-xml-cgi-video?utm_source=github&utm_medium=repository&utm_campaign=9781838559960)
+
