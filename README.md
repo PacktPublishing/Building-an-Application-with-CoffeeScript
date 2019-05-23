@@ -1,5 +1,5 @@
-# Rapid Flask [Video]
-This is the code repository for [Rapid Flask [Video]](https://www.packtpub.com/application-development/rapid-flask-video?utm_source=github&utm_medium=repository&utm_campaign=9781783554256), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+# Building an Application with CoffeeScript [Video]
+This is the code repository for [Building an Application with CoffeeScript [Video]](https://www.packtpub.com/web-development/building-application-coffeescript-video?utm_source=github&utm_medium=repository&utm_campaign=9781783283675), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
 CoffeeScript is a programming language that transcompiles to JavaScript. Using CoffeeScript, programs can be written with less code, typically only a third of JavaScript lines, with no effect on runtime performance.
 
@@ -14,22 +14,23 @@ The app we’ll be building is fully extensible so you can easily make it your o
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Python programming 
-<LI>Application programming 
-<LI>The semantics of general programming 
-<LI>The format of coding applications 
-<LI>All the functions of Python programming 
-<LI>Application programming </LI></UL></DIV>
+<LI>Familiarize yourself with CoffeeScript 
+<LI>Use CoffeeScript for web app development 
+<LI>Get to know the build tools that come along with the language (Cake) 
+<LI>Build a simple framework for your application 
+<LI>Implement JavaScript libraries with CoffeeScript 
+<LI>Understand advanced concepts such as inheritance and polymorphism 
+<LI>Incorporate HTML5 APIs with CoffeeScript 
+<LI>Refactor your existing CoffeeScript code </LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
-Basic Knowledge of CoffeeScript 
-
+Basic Knowledge CoffeeScript is essential.
 ### Technical Requirements
 This course has the following software requirements:<br/>
-CoffeeScript 
-JavaScript
+1. CoffeeScript
+2. JavaScript
 
 ## Related Products
 * [Hands-On Incident Response Analysis [Video]](https://www.packtpub.com/networking-and-servers/hands-incident-response-analysis-video?utm_source=github&utm_medium=repository&utm_campaign=9781838552046)
