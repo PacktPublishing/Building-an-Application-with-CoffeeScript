@@ -1,32 +1,36 @@
-# Building a Website with Drupal [Video]
-This is the code repository for [Building a Website with Drupal [Video]](https://www.packtpub.com/web-development/building-website-drupal-video?utm_source=github&utm_medium=repository&utm_campaign=9781782166146), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+# Building an Application with CoffeeScript [Video]
+This is the code repository for [Building an Application with CoffeeScript [Video]](https://www.packtpub.com/web-development/building-application-coffeescript-video?utm_source=github&utm_medium=repository&utm_campaign=9781783283675), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
-Drupal is without a doubt the leading open source CMS today. With its huge usage and user base as well as the large number of add-ons, it can be adapted to suit the needs of most modern websites. Furthermore, thanks to the nature of the Drupal.org website itself, it is much easier these days to make sound decisions on what add-ons to use that will meet sustainability requirements in the future.
+CoffeeScript is a programming language that transcompiles to JavaScript. Using CoffeeScript, programs can be written with less code, typically only a third of JavaScript lines, with no effect on runtime performance.
 
-Drupal’s highly adaptable nature in managing sites is greatly desired. However, it is quite different than other CMS software as it is also intended to act as a CMF. That initial learning curve when first starting to use Drupal is the challenge that seems to dissuade designers from using it. With Building a Website with Drupal, you will learn everything you need to know about how to build a website using Drupal, beginning with installing a test server, building a prototype and custom theme, all the way through to deployment. Topics such as the usage of views and other common add-ons, downloading editor files and the WYSIWYG module, and integrating the open source Tiny MCE editor are covered.
+This video course provides invaluable insight into the practical usefulness of CoffeeScript, how it can simplify web development, and allow us to easily build web applications or re-factor existing ones.
 
-Building a Website with Drupal is aimed at those with web designer skills wishing to learn how to use Drupal to build sites. Beginning with a tour of the Drupal site, the attention shifts to establishing a web test server that is setup to house the prototype. Various customization topics are covered for content types, menus, and views. Building a custom theme without writing any PHP is covered next. The final steps of this course include prep work for migration to an actual web server.
+From getting acquainted with CoffeeScript all the way to using it in production, this course focuses on the practical aspects of the language. You’ll get to see all it offers, such as the simplified syntax compared to JavaScript, the impressive build tools, and the possibilities to simplify your project structure.
 
-Surmount the initial learning curve associated with building sites using Drupal by studying how a community site is put together.
+You'll build an application while learning the specifics of the language and the many tricks CoffeeScript has up its sleeve. You will use JavaScript libraries to avoid ‘reinventing the wheel’, while inventing some wheels of our own in order to better understand some advanced concepts . We'll go through a really simple MVC framework that provides the basis of a simple document editing application that can export documents to the desktop (from the Web).
+
+The app we’ll be building is fully extensible so you can easily make it your own. Want a note-taking app? We have you covered. Want to extend the app to something more? By all means, you'll have a skeleton app which you can revamp again and again to build various apps with CoffeeScript.
 
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Learn how to evaluate the reliability and sustainable factors of add-ons for Drupal 
-<LI>Set up a test server and install Drupal along with selected add-ons, with links to which stored within the resource list 
-<LI>Customize content types with fields, create new ones, and set patterns for how they are to be saved and organized 
-<LI>Learn how to add libraries with a rich-text editor and establish limitations for roles such as what HTML tags can be used for 
-<LI>Use views to define pages, blocks, or feeds containing content pulled from the database 
-<LI>Create a custom theme without writing any PHP that is HTML5-based for built-in support for mobile devices 
-<LI>Prepare the site for migration to another web server </LI></UL></DIV>
+<LI>Familiarize yourself with CoffeeScript 
+<LI>Use CoffeeScript for web app development 
+<LI>Get to know the build tools that come along with the language (Cake) 
+<LI>Build a simple framework for your application 
+<LI>Implement JavaScript libraries with CoffeeScript 
+<LI>Understand advanced concepts such as inheritance and polymorphism 
+<LI>Incorporate HTML5 APIs with CoffeeScript 
+<LI>Refactor your existing CoffeeScript code </LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
-Basic Knowledge Drupal is essential.
+Basic Knowledge HTML 5 is essential.
 ### Technical Requirements
 This course has the following software requirements:<br/>
 1. HTML 5
+2. CoffeeScript
 
 
 ## Related Products
